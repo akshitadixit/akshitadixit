@@ -5,11 +5,23 @@
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/plastic96_)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<table border="0">
+ <tr>
+    <td><h2>GitHub Stats:-</h2></td>
+    <td><h2>GitHub Streak:-</h2></td>
+ </tr>
+ <tr>
+    <td>![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitadixit)
+</td>
+    <td>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshitadixit&theme=tokyonight)</td>
+ </tr>
+</table>
 
-## GitHub Stats:- 
+ 
 ![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitadixit)
 
-## GitHub Streak:- 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshitadixit&theme=tokyonight)
 
 ## Languages:- 
