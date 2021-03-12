@@ -18,6 +18,13 @@
  </tr>
 </table>
 
+<table>
+<tr>
+<td> <div markdown='1'> ![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitadixit)</div></td>
+<td> rf</td>
+</tr>
+</table>
+
  
 ![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitadixit)
 
