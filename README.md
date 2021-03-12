@@ -6,11 +6,7 @@
 
 | Languages | Visiting Card|
 | ----|-----|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| ![Profile](https://Visitor-badge.glitch.me/badge?page_id=akshitadixit.akshitadixit-gh-visitors)
-[![GitHub stars](https://img.shields.io/github/stars/akshitadixit.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/akshitadixit/stargazers/)
-[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=plastic)](https://twitter.com/plastic96_)
-[![LinkedIn][linkedin-shield]][linkedin-url]
-|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| ![Profile](https://Visitor-badge.glitch.me/badge?page_id=akshitadixit.akshitadixit-gh-visitors)[![GitHub stars](https://img.shields.io/github/stars/akshitadixit.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/akshitadixit/stargazers/)[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=plastic)](https://twitter.com/plastic96_)[![LinkedIn][linkedin-shield]][linkedin-url]|
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=darkblue
