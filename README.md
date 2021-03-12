@@ -6,7 +6,7 @@
 
 | Languages | Info| Current Challlenge|
 | ----|-----|---------|
-| ![Profile](https://Visitor-badge.glitch.me/badge?page_id=akshitadixit.akshitadixit-gh-visitors)<br/>[![GitHub stars](https://img.shields.io/github/stars/akshitadixit.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/akshitadixit/stargazers/)<br/>[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=plastic)](https://twitter.com/plastic96_)<br/>[![LinkedIn][linkedin-shield]][linkedin-url] | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| ![image](https://github.com/IIITKalyaniFOSC/GitTub/raw/main/image.png = 200x200)|
+| ![Profile](https://Visitor-badge.glitch.me/badge?page_id=akshitadixit.akshitadixit-gh-visitors)<br/>[![GitHub stars](https://img.shields.io/github/stars/akshitadixit.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/akshitadixit/stargazers/)<br/>[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=plastic)](https://twitter.com/plastic96_)<br/>[![LinkedIn][linkedin-shield]][linkedin-url] | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| <img src="https://github.com/IIITKalyaniFOSC/GitTub/raw/main/image.png" width="200" height="200" />|
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=darkblue
