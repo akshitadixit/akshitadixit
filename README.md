@@ -18,12 +18,9 @@
  </tr>
 </table>
 
-<table>
-<tr>
-<td> <span markdown='1'> ![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitadixit)</span></td>
-<td> rf</td>
-</tr>
-</table>
+| head | ok|
+| ----|-----|
+| ![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitadixit)| okok|
 
  
 ![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitadixit)
