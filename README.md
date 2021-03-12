@@ -11,7 +11,7 @@
 
 | Languages | Visiting Card|
 | ----|-----|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| ![img](https://www.canva.com/design/DAEYjT71Sy4/view?utm_content=DAEYjT71Sy4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| ![img](https://www.canva.com/design/DAEYjT71Sy4/yr5VQ2B6VSshU0LukZHjeQ/view?utm_campaign=designshare&utm_source=sharebutton)|
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=darkblue
