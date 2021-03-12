@@ -1,6 +1,6 @@
 ![Plastic](https://user-images.githubusercontent.com/56997545/110952016-bb2d9c80-836b-11eb-9240-ed7d4e697448.gif)
 
-| GitHub Stats | GitHub Streak|
+| GitHub Streak | GitHub Stats|
 | ----|-----|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshitadixit&theme=tokyonight) | ![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitadixit)|
 
