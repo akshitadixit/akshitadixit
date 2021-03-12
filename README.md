@@ -1,8 +1,4 @@
-
-![Profile](https://Visitor-badge.glitch.me/badge?page_id=akshitadixit.akshitadixit-gh-visitors)
-[![GitHub stars](https://img.shields.io/github/stars/akshitadixit.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/akshitadixit/stargazers/)
-[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=plastic)](https://twitter.com/plastic96_)
-[![LinkedIn][linkedin-shield]][linkedin-url]
+![Plastic](https://user-images.githubusercontent.com/56997545/110952016-bb2d9c80-836b-11eb-9240-ed7d4e697448.gif)
 
 | GitHub Stats | GitHub Streak|
 | ----|-----|
@@ -10,7 +6,11 @@
 
 | Languages | Visiting Card|
 | ----|-----|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| ![Plastic](https://user-images.githubusercontent.com/56997545/110951696-5d995000-836b-11eb-9a53-b74d11ea9f87.gif)|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| ![Profile](https://Visitor-badge.glitch.me/badge?page_id=akshitadixit.akshitadixit-gh-visitors)
+[![GitHub stars](https://img.shields.io/github/stars/akshitadixit.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/akshitadixit/stargazers/)
+[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=plastic)](https://twitter.com/plastic96_)
+[![LinkedIn][linkedin-shield]][linkedin-url]
+|
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=darkblue
