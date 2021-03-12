@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td> <div markdown='1'> ![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitadixit)</div></td>
+<td> <span markdown='1'> ![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitadixit)</span></td>
 <td> rf</td>
 </tr>
 </table>
