@@ -1,26 +1,54 @@
-| GitHub Streak | GitHub Stats|
-| ----|-----|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshitadixit&theme=tokyonight) | ![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitadixit)|
+<table align="center">
+<thead>
+<tr>
+<th style="text-align:center"><img src="https://Visitor-badge.glitch.me/badge?page_id=akshitadixit.akshitadixit-gh-visitors"></th>
+</tr>
+<tr>
+<th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitadixit&theme=tokyonight"></th>
+</tr>
+<tr>
+<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=akshitadixit"></th>
+</tr>
+</thead>
+</table>
 
-| Info | Languages| Current Challlenge| Treat XD|
-| ----|-----|---------|--------|
-| [![GitHub stars](https://img.shields.io/github/stars/akshitadixit.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/akshitadixit/stargazers/)<br/>[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/plastic96_)<br/>[![LinkedIn][linkedin-shield]][linkedin-url] | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| <a href="https://github.com/IIITKalyaniFOSC/GitTub"><img src="https://github.com/IIITKalyaniFOSC/GitTub/blob/main/assets/image.png" width="200" height="200"/></a>| <img src="https://pics.me.me/untitled-notepad-file-edit-format-view-help-only-real-programmers-37641627.png" width="300" height="200"/> |
+| Languages| Current Challlenge| Current project|
+|-----|---------|:--------:|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| <a href="https://github.com/IIITKalyaniFOSC/GitTub"><img src="https://github.com/IIITKalyaniFOSC/GitTub/blob/main/assets/image.png" width="200" height="200"/></a>| 🔭 I’m currently working on MediCare-Prime <br/> <br/> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IIITKalyaniFOSC&repo=MediCare-Prime)](https://github.com/IIITKalyaniFOSC/MediCare-Prime) |
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=darkblue
 [linkedin-url]: https://www.linkedin.com/in/akshitadixit/
 
-|Visitors|![Profile](https://Visitor-badge.glitch.me/badge?page_id=akshitadixit.akshitadixit-gh-visitors)|
-|------|-----|
-|Langs|![js](https://img.shields.io/badge/--black?style=for-the-badge&logo=javascript) ![py](https://img.shields.io/badge/--black?style=for-the-badge&logo=python) ![java](https://img.shields.io/badge/--black?style=for-the-badge&logo=java) ![html](https://img.shields.io/badge/--black?style=for-the-badge&logo=html5) ![css](https://img.shields.io/badge/--black?style=for-the-badge&logo=css3) ![c](https://img.shields.io/badge/--black?style=for-the-badge&logo=c) ![php](https://img.shields.io/badge/--black?style=for-the-badge&logo=php)|
-|Cloud| ![gcp](https://img.shields.io/badge/--black?style=for-the-badge&logo=google-cloud) ![heroku](https://img.shields.io/badge/--black?style=for-the-badge&logo=heroku)|
-|ML/DL|![ts](https://img.shields.io/badge/--black?style=for-the-badge&logo=tensorflow) ![keras](https://img.shields.io/badge/--black?style=for-the-badge&logo=keras) ![cv2](https://img.shields.io/badge/--black?style=for-the-badge&logo=opencv)|
-|Tools|![sql](https://img.shields.io/badge/--black?style=for-the-badge&logo=mysql) ![maven](https://img.shields.io/badge/--black?style=for-the-badge&logo=apache-maven) ![tomcat](https://img.shields.io/badge/--black?style=for-the-badge&logo=apache-tomcat) ![nginx](https://img.shields.io/badge/--black?style=for-the-badge&logo=nginx)|
-|Design|![figma](https://img.shields.io/badge/--black?style=for-the-badge&logo=figma) ![canva](https://img.shields.io/badge/--black?style=for-the-badge&logo=canva)|
-|Management|![hubspot](https://img.shields.io/badge/--black?style=for-the-badge&logo=hubspot) ![trello](https://img.shields.io/badge/--black?style=for-the-badge&logo=trello) ![slack](https://img.shields.io/badge/--black?style=for-the-badge&logo=slack)|
-|Socials|![linkedin](https://img.shields.io/badge/--black?style=for-the-badge&logo=linkedin) ![twitter](https://img.shields.io/badge/--black?style=for-the-badge&logo=twitter) ![gmail](https://img.shields.io/badge/--black?style=for-the-badge&logo=gmail) ![medium](https://img.shields.io/badge/--black?style=for-the-badge&logo=medium)|
-
-
-
-
-
+<table align="center">
+<tbody>
+<tr>
+<td style="text-align:center">Langs</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=javascript" alt="js"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=python" alt="py"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=java" alt="java"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=html5" alt="html"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=css3" alt="css"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=c" alt="c"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=php" alt="php"></td>
+</tr>
+<tr>
+<td style="text-align:center">Cloud</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=google-cloud" alt="gcp"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=heroku" alt="heroku"></td>
+</tr>
+<tr>
+<td style="text-align:center">ML/DL</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=tensorflow" alt="ts"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=keras" alt="keras"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=opencv" alt="cv2"></td>
+</tr>
+<tr>
+<td style="text-align:center">Tools</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=mysql" alt="sql"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-maven" alt="maven"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-tomcat" alt="tomcat"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=nginx" alt="nginx"></td>
+</tr>
+<tr>
+<td style="text-align:center">Design</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=figma" alt="figma"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=canva" alt="canva"></td>
+</tr>
+<tr>
+<td style="text-align:center">Management</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=hubspot" alt="hubspot"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=trello" alt="trello"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=slack" alt="slack"></td>
+</tr>
+<tr>
+<td style="text-align:center">Socials</td>
+<td style="text-align:center"><a href="https://linkedin.com/in/akshitadixit"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=linkedin" alt="linkedin"></a> <a href="https://twitter.com/plastic96_"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=twitter" alt="twitter"></a> <a href="mailto:akshitadixit.int@gmail.com"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=gmail" alt="gmail"></a> <a href="https://plastic96.medium.com/"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=medium" alt="medium"></a></td>
+</tr>
+</tbody>
+</table>
