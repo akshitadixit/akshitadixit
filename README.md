@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td style="text-align:center">Tools</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=mysql" alt="sql"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-maven" alt="maven"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-tomcat" alt="tomcat"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=nginx" alt="nginx"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=mysql" alt="sql"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-maven" alt="maven"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-tomcat" alt="tomcat"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=nginx" alt="nginx"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=flask">  </td>
 </tr>
 <tr>
 <td style="text-align:center">Design</td>
