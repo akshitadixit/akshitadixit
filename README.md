@@ -24,31 +24,31 @@
 <tbody>
 <tr>
 <td style="text-align:center">Langs</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=javascript" alt="js"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=python" alt="py"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=java" alt="java"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=html5" alt="html"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=css3" alt="css"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=c" alt="c"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=php" alt="php"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=javascript" alt="js" title="JavaScript"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=python" alt="py" title="Python"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=java" alt="java" title="Java"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=html5" alt="html" title="HTML5"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=css3" alt="css" title="CSS3"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=c" alt="c" title="C"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=php" alt="php" title="php"></td>
 </tr>
 <tr>
 <td style="text-align:center">Cloud</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=google-cloud" alt="gcp"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=heroku" alt="heroku"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=google-cloud" alt="gcp" title="Google Cloud"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=heroku" alt="heroku" title="Heroku"></td>
 </tr>
 <tr>
 <td style="text-align:center">ML/DL</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=tensorflow" alt="ts"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=keras" alt="keras"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=opencv" alt="cv2"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=tensorflow" alt="ts" title="Tensorflow"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=keras" alt="keras" title="Keras"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=opencv" alt="cv2" title="CV2"></td>
 </tr>
 <tr>
 <td style="text-align:center">Tools</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=mysql" alt="sql"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-maven" alt="maven"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-tomcat" alt="tomcat"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=nginx" alt="nginx"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=flask">  </td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=mysql" alt="sql" title="MySQL"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-maven" alt="maven" title="Apache Maven"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-tomcat" alt="tomcat" title="Apache Tomcat"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=nginx" alt="nginx" title="Nginx"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=flask" alt="flask" title="Flask">  </td>
 </tr>
 <tr>
 <td style="text-align:center">Design</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=figma" alt="figma"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=canva" alt="canva"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=figma" alt="figma" title="Figma"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=canva" alt="canva" title="Canva"></td>
 </tr>
 <tr>
 <td style="text-align:center">Management</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=hubspot" alt="hubspot"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=trello" alt="trello"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=slack" alt="slack"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=hubspot" alt="hubspot" title="Hubspot"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=trello" alt="trello" title="Trello"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=slack" alt="slack" title="Slack"></td>
 </tr>
 <tr>
 <td style="text-align:center">Socials</td>
-<td style="text-align:center"><a href="https://linkedin.com/in/akshitadixit"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=linkedin" alt="linkedin"></a> <a href="https://twitter.com/plastic96_"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=twitter" alt="twitter"></a> <a href="mailto:akshitadixit.int@gmail.com"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=gmail" alt="gmail"></a> <a href="https://plastic96.medium.com/"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=medium" alt="medium"></a></td>
+<td style="text-align:center"><a href="https://linkedin.com/in/akshitadixit"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=linkedin" alt="linkedin" title="LinkedIn"></a> <a href="https://twitter.com/plastic96_"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=twitter" alt="twitter" title="Twitter"></a> <a href="mailto:akshitadixit.int@gmail.com"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=gmail" alt="gmail" title="G-Mail"></a> <a href="https://plastic96.medium.com/"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=medium" alt="medium" title="Medium"></a></td>
 </tr>
 </tbody>
 </table>
