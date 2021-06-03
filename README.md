@@ -1,7 +1,7 @@
 <table align="center">
 <thead>
 <tr>
-<th style="text-align:center"><img src="https://Visitor-badge.glitch.me/badge?page_id=akshitadixit.akshitadixit-gh-visitors"></th>
+<th style="text-align:center"><img src="https://komarev.com/ghpvc/?username=akshitadixit"></th>
 </tr>
 <tr>
 <th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitadixit&theme=tokyonight"></th>
