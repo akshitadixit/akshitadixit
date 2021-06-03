@@ -22,6 +22,7 @@
 
 <table align="center">
 <tbody>
+  <tr><td colspan="2" align="center">{hover over the icons to view names}</td></tr>
 <tr>
 <td style="text-align:center">Langs</td>
 <td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=javascript" alt="js" title="JavaScript"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=python" alt="py" title="Python"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=java" alt="java" title="Java"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=html5" alt="html" title="HTML5"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=css3" alt="css" title="CSS3"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=c" alt="c" title="C"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=php" alt="php" title="php"></td>
