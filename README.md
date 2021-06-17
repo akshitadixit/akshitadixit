@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td style="text-align:center">Cloud</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=google-cloud" alt="gcp" title="Google Cloud"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=heroku" alt="heroku" title="Heroku"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=google-cloud" alt="gcp" title="Google Cloud"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=heroku" alt="heroku" title="Heroku"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=kubernetes" alt="kubernetes" title="Kubernetes"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=docker" alt="docker" title="Docker"></td>
 </tr>
 <tr>
 <td style="text-align:center">ML/DL</td>
@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <td style="text-align:center">Tools</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=mysql" alt="sql" title="MySQL"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-maven" alt="maven" title="Apache Maven"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-tomcat" alt="tomcat" title="Apache Tomcat"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=nginx" alt="nginx" title="Nginx"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=flask" alt="flask" title="Flask">  </td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=mysql" alt="sql" title="MySQL"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-maven" alt="maven" title="Apache Maven"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=apache-tomcat" alt="tomcat" title="Apache Tomcat"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=nginx" alt="nginx" title="Nginx"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=flask" alt="flask" title="Flask"> <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=hibernate" alt="hibernate" title="Hibernate"> </td>
 </tr>
 <tr>
 <td style="text-align:center">Design</td>
