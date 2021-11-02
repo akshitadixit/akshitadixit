@@ -14,7 +14,8 @@
 
 | Languages| Current Challlenge| 🔭 Current project/s|
 |-----|---------|:--------:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->| <a href="https://github.com/IIITKalyaniFOSC/GitTub"><img src="https://github.com/IIITKalyaniFOSC/GitTub/blob/main/assets/image.png" width="200" height="200"/></a>| [![Medicare](https://github-readme-stats.vercel.app/api/pin/?username=IIITKalyaniFOSC&repo=MediCare-Prime)](https://github.com/IIITKalyaniFOSC/MediCare-Prime) <br/> [![Vcallzer](https://github-readme-stats.vercel.app/api/pin/?username=akshitadixit&repo=VCallZer)](https://github.com/akshitadixit/VCallZer) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->|<img src="https://user-images.githubusercontent.com/56997545/139825802-c7b0f3a0-b97b-4cd2-ab7f-42f16778f656.jpeg" width="200" height="200"/>
+| [![Medicare](https://github-readme-stats.vercel.app/api/pin/?username=IIITKalyaniFOSC&repo=MediCare-Prime)](https://github.com/IIITKalyaniFOSC/MediCare-Prime) <br/> [![Vcallzer](https://github-readme-stats.vercel.app/api/pin/?username=akshitadixit&repo=VCallZer)](https://github.com/akshitadixit/VCallZer) |
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=darkblue
